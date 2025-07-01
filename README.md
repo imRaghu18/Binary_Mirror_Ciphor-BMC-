@@ -140,7 +140,7 @@ Algorithm DecryptBinaryMirror(ciphertext):
 </pre>
 
 <p align="center">
-<img src="./encryption flowchart" alt="Encryption flowchart" width="300">
+<img src="./encryption flowchart.png" alt="Encryption flowchart" width="300">
 </p>
 
 
