@@ -50,7 +50,6 @@
 ---
 ##  Table of Contents
 
-- [Overview](#-overview)
 - [Introduction](#-introduction)
 - [Features](#-features)
 - [Encryption Process](#-encryption-process)
