@@ -111,8 +111,7 @@ Same as encryption:
 ---
 
 ## 🧮 Encryption Algorithm
-
-```pseudo
+<pre>
 Algorithm EncryptBinaryMirror(plaintext):
     Begin
         ciphertext ← ""
@@ -138,10 +137,11 @@ Algorithm DecryptBinaryMirror(ciphertext):
         return plaintext
     End
 
+</pre>
 
-
-
-
+<p align="center">
+<img src="./encryption flowchart" alt="Encryption flowchart" width="300">
+</p>
 
 
 
