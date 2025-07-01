@@ -36,7 +36,7 @@
 </p>
 
 ---
-<h2 align="center" style="color:#16a085;"><strong>👨‍🏫 Submitted To</strong></h2>
+<h2 align="center" style="color:#16a085;"><strong> Submitted To</strong></h2>
 
 <p align="center">
   <strong>Name:</strong> Pankaj Bhowmik  
